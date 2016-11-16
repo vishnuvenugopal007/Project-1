@@ -1,0 +1,28 @@
+.third {
+  display: inline-block;
+  text-align: left;
+  padding: 10px;
+  width:30%;
+}
+
+.fourth {
+  display: inline-block;
+  text-align: left;
+  padding: 10px;
+  width: 30%;
+}
+
+.fifth {
+  display: inline-block;
+  text-align: left;
+  padding: 10px;
+  width: 30%;
+}
+
+html {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-bottom: 100px;
+  border: 1px solid;
+}
