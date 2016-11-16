@@ -1,0 +1,30 @@
+.third {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  width:30%;
+   border: 2px solid blue;
+}
+
+.fourth {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  width: 30%;
+  border: 2px solid purple;
+}
+
+.fifth {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  width: 30%;
+  border: 2px solid black;
+}
+
+html {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid;
+}
