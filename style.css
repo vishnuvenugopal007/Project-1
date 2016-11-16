@@ -2,7 +2,7 @@
   display: inline-block;
   text-align: left;
   padding: 10px;
-  width:30%;
+  width: 30%;
 }
 
 .fourth {
@@ -23,6 +23,14 @@ html {
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
-  padding-bottom: 100px;
+  margin-bottom: 5px;
   border: 1px solid;
+}
+
+#copyright {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  bottom: 5px;
+  left: 0;
 }
