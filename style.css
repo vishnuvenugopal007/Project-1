@@ -19,6 +19,19 @@
   width: 30%;
 }
 
+.background-image {
+  background-image: url("http://cdn.wallpapersafari.com/41/66/2BmYyj.jpg");
+  height: 600px;
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  position: relative;
+  padding-top: 225px;
+}
+
 html {
   margin-top: 5px;
   margin-left: 5px;
