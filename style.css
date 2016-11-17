@@ -19,12 +19,23 @@
   width: 30%;
 }
 
-html {
-  margin-top: 5px;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  border: 1px solid;
+.image{
+  position: relative;
+  width:100%;
+}
+
+.text{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: 900;
+  color: white;
+  margin: 10px;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  right: 25%;
+  bottom:25%;
+  font-size: 2rem;
 }
 
 #copyright {
